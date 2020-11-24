@@ -6,4 +6,5 @@
 
 ### Support or Contact
 
-Please [email me](estolpovsky@gmail.com) with comments, questions or ideas! 
+Please <a href = "mailto: abc@example.com"> email me </a> with comments, questions or ideas! 
+
