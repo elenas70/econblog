@@ -1,1 +1,12 @@
+title: Econblog
 theme: jekyll-theme-minimal
+author: Elena Stolpovsky
+email: estolpovsky@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  In this blog I examine ongoing economic and social in the U.S. using government survey data and statistical analysis. 
+  The analysis is in R and the sites employ RMarkdown.
+  
+# social links
+github_username:  https://github.com/elenas70 # DO NOT include the @ character, or else the build will fail!
+linkedin: https://www.linkedin.com/in/estolpovsky/
+show_excerpts: true # set to false to remove excerpts on the homepage
