@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 author: Elena Stolpovsky
 email: estolpovsky@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I have a PhD in Economics focusing on Labor Economics. I am following the recent developments in U.S. economy and the impact of COVID on the labor market. The studies use the Current Population Survey administered by the Census Bureau. 
+  In this blog I follow the development of U.S. labor market focusing on the impact of COVID-19. The studies are based on the Current Population Survey data. We can see disparaties by gender and geography, and a shock to employment and labor force participation.
  
 # social links
 github_username:  https://github.com/elenas70 # DO NOT include the @ character, or else the build will fail!
