@@ -1,4 +1,4 @@
-## Welcome to Econblog
+## Welcome to Econblog, Where I Follow the U.S. Economy and Important Developments in the Labor Market
 
 ### Changes in the U.S. Labor Market in 2020
 
