@@ -5,7 +5,8 @@ email: estolpovsky@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   In this blog I follow the development of U.S. labor market focusing on the impact of COVID-19. The studies are based on the Current Population Survey data. We can see disparaties by gender and geography, and a shock to employment and labor force participation.
  
-# social links
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="estolpovsky"><a class="LI-simple-link" href='https://www.linkedin.com/in/estolpovsky?trk=profile-badge'>Elena Stolpovsky</a></div>
 github_username:  https://github.com/elenas70 # DO NOT include the @ character, or else the build will fail!
 linkedin: https://www.linkedin.com/in/estolpovsky/
 show_excerpts: true # set to false to remove excerpts on the homepage
