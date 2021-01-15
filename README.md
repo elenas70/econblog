@@ -1,6 +1,6 @@
 ## Welcome to Econblog
 
-This is a place where I post short studies tracking the U.S. economy during COVID and the changes relevant to the labor market. I also take a historical perspective to understand how recent changes stand compared to past shocks and recessions. 
+In this blog I follow the recent development of U.S. labor market focusing on the impact of COVID-19 on employment and labor force participation. The studies are based on the Current Population Survey data. I look at disparaties by gender and geography and also take a historical perspective to understand how recent changes stand compared to past shocks and recessions. 
 
 ### Changes in the U.S. Labor Market in 2020
 
