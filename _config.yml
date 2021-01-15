@@ -3,7 +3,16 @@ author: Elena Stolpovsky
 theme: jekyll-theme-minimal
 author: Elena Stolpovsky
 email: estolpovsky@gmail.com
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+  
 description: > # this means to ignore newlines until "baseurl:" 
+ ##About Me
+
  My name is Elena Stolpovsky. I live in Washington State and have a PhD in Economics with a focus in Labor Economics. I worked as an economist in a clean tech startup [AquaRing Energy](https://www.linkedin.com/company/aquaring-energy/about/) that is developing innovative technology, including a wave energy generation technology.
 
  My PhD thesis was about household decision making and the roles of the household members in the decision-making process. If you are curious, you can access the whole thesis (!) [here] (https://rucore.libraries.rutgers.edu/rutgers-lib/51472/PDF/1/play/)
