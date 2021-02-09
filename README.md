@@ -2,6 +2,11 @@
 
 In this blog I follow the recent developments in the U.S. labor market focusing on the impact of COVID-19 on employment and labor force participation. The studies are based on the Current Population Survey data. I look at disparaties by gender and geography and also take a historical perspective to understand how recent changes stand compared to past shocks and recessions. 
 
+### US. Labor Market During 1976-2020
+
+2/9/2020 [Labor Force Participation in the U.S. 1976⁠–⁠2020. Reasons for Being out of the Labor Force.](https://rpubs.com/elenas70/labor_force_participation_US_history)
+<br />Female labor force participation rose dramatically from 1970s to 2000 and then stagnated. Male labor force participation rate declined since the 1970s. I look into the reasons using the Current Population Survey.
+
 ### The COVID Shock to Employment and Labor Force Participation in the US
 
 2/4/2020 [The Rise in Unemployment Rates and Drop in Labor Force Participation for Men and Women in 2020](https://rpubs.com/elenas70/labormarket2020part1)
@@ -9,12 +14,6 @@ In this blog I follow the recent developments in the U.S. labor market focusing 
  
 2/4/2020 [The Geography of Unemployment in 2020](https://rpubs.com/elenas70/labormarket2020part2)
 <br />I examine the geographical distribution of the impact of COVID on unemployment rates in the U.S. in 2020. The states most impacted and slowest to recover were states highly dependent on tourism and entertainment and states with high population density and large urban centers. Peak unemployment occured in April and May. Most states saw a gradual recovery until October and Noveber, and a stagnation or a rise in unemployment rates in December. 
-
-### US. Labor Market During 1976-2020
-
-12/20/2020 [Labor Force Participation in the U.S. 1976⁠–⁠2020. Reasons for Being out of the Labor Force.](https://rpubs.com/elenas70/labor_force_participation_US_history)
-<br />Female labor force participation rose dramatically from 1970s to 2000 and then stagnated. Male labor force participation rate declined since the 1970s. I look into the reasons using the Current Population Survey.
-
 
 ### Support or Contact
 
