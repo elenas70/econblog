@@ -17,5 +17,5 @@ In this blog I follow the recent developments in the U.S. labor market focusing 
 
 ### Support or Contact
 
-Please <a href = "mailto: abc@example.com"> email me </a> with comments, questions or ideas! 
+Please <a href = "mailto: abc@example.com"> email me </a> or connect on [Linkedin](https://www.linkedin.com/feed/) with comments, questions and research ideas.
 
