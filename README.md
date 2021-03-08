@@ -7,7 +7,7 @@ In this blog I follow the recent developments in the U.S. labor market focusing 
 <br />In 2020 the rise in unemployment rates was more rapid and reached higher levels than during any of the the past recessions since 1976. I compare the unemployment dynamics for men and women during the COVID recession with the recessions during the 1976-2019 using the Current Population Survey.
 
 
-2/9/2020 [Labor Force Participation in the U.S. 1976⁠–⁠2020. Reasons for Being out of the Labor Force.](https://rpubs.com/elenas70/labor_force_participation_US_history)
+2/9/2020 [Labor Force Participation in the U.S. 1976⁠–⁠2020. Reasons for Being out of the Labor Force.](https://rpubs.com/elenas70/historicallfp)
 <br />Female labor force participation rose dramatically from 1970s to 2000 and then stagnated. Male labor force participation rate declined since the 1970s. I look into the reasons using the Current Population Survey.
 
 ### The COVID Shock to Employment and Labor Force Participation in the US
