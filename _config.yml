@@ -3,7 +3,8 @@ theme: jekyll-theme-minimal
 author: Elena Stolpovsky
 email: estolpovsky@gmail.com
 description: > # this means to ignore newlines until "baseurl:" 
-  My name is Elena Stolpovsky. I have a PhD in Economics. My thesis is about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
+  My name is Elena Stolpovsky. I have a PhD in Economics. My thesis was about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
+  Please check out my thesis <a href="https://rucore.libraries.rutgers.edu/rutgers-lib/51472/">my thesis</a> if curious!
   <br>I worked in the energy industry and am passionate about sustainable energy generation.
   Connect with me on LinkedIn with comments about my blog, research ideas and project suggestions!
 #social sites
