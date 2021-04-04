@@ -4,7 +4,7 @@ author: Elena Stolpovsky
 email: estolpovsky@gmail.com
 description: > # this means to ignore newlines until "baseurl:" 
   I have a PhD in Economics. My thesis is about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
-  I worked in the energy industry and am passionate about sustainable energy generation.
+  <br>I worked in the energy industry and am passionate about sustainable energy generation.
   Connect with me on LinkedIn with comments about my blog, research ideas and project suggestions!
 #social sites
 github_username:  https://github.com/elenas70 # DO NOT include the @ character, or else the build will fail!
