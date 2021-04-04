@@ -19,6 +19,12 @@ Welcome to my blog. I follow the recent developments in the U.S. labor market fo
 <br />I survey labor force participation, employment and unemployment rates and examine the differences for men and women. Women have been more impacted, but the difference in the impact is shrinking over time. Labor force participation and employment rates dropped in April, have been recovering until October, and have stagnated in November and December. 
  
 
+### PhD Research
+
+5/10/2016 [Decision-Making of Households. Family Labor Supply, Migration, and Marriage](https://rucore.libraries.rutgers.edu/rutgers-lib/51472/)
+
+<br />I examine family decision using theoretical and empirical analysis. I am interested in the different roles that the main decision makers in the family play in the common decision. The first chapter focuses on the family decision about the labor supply of the wife, the second, on family residential mobility and migration, and the second, on the determinants of marriage.
+
 ### Support or Contact
 
 Please <a href = "mailto: abc@example.com"> email me </a> or reach out on [Linkedin](https://www.linkedin.com/feed/) with comments, questions and research ideas!
