@@ -7,9 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   <br>As a graduate student I researched economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
   My thesis was about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
   You are free to check out my <a href="https://rucore.libraries.rutgers.edu/rutgers-lib/51472/">my thesis</a>, and let me know what you think.
-  <br>I worked in the energy industry and became passionate about sustainable energy generation and sustainable development in general.
+  <br>I worked in the energy industry and became passionate about sustainable energy generation and sustainable development.
   <br>I am currently engaged in independent research and work on ad-hoc projects. Connect with me on <a href="https://www.linkedin.com/in/estolpovsky/">LinkedIn</a> with comments about my blog, research ideas and project suggestions!
 #social sites
 github_username:  https://github.com/elenas70 # DO NOT include the @ character, or else the build will fail!
-linkedin: https://www.linkedin.com/in/estolpovsky/
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
