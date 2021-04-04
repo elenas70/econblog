@@ -22,7 +22,6 @@ Welcome to my blog. I follow the recent developments in the U.S. labor market fo
 ### PhD Research
 
 5/10/2016 [Decision-Making of Households. Family Labor Supply, Migration, and Marriage](https://rucore.libraries.rutgers.edu/rutgers-lib/51472/)
-
 <br />I examine family decision using theoretical and empirical analysis. I am interested in the different roles that the main decision makers in the family play in the common decision. The first chapter focuses on the family decision about the labor supply of the wife, the second, on family residential mobility and migration, and the second, on the determinants of marriage.
 
 ### Support or Contact
