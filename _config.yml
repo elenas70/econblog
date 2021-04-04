@@ -1,9 +1,9 @@
-title: <font size="5"> About Me </font>
+title: <font size="5" color="tomato"> About Me </font>
 theme: jekyll-theme-minimal
 author: Elena Stolpovsky
 email: estolpovsky@gmail.com
 description: > # this means to ignore newlines until "baseurl:" 
-  I have a PhD in Economics. My thesis is about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
+  My name is Elena Stolpovsky. I have a PhD in Economics. My thesis is about economic decision-making of househoods - a topic that fascinates me, for some reason, but is not very popular or applicable.
   <br>I worked in the energy industry and am passionate about sustainable energy generation.
   Connect with me on LinkedIn with comments about my blog, research ideas and project suggestions!
 #social sites
