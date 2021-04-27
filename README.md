@@ -8,7 +8,7 @@ In this blog I follow the recent developments in the U.S. labor market focusing 
 <br />I survey labor force participation, employment and unemployment rates and examine the differences for men and women. Women have been more impacted, but the difference in the impact is shrinking over time. Labor force participation and employment rates dropped in April, have been recovering until October, and have stagnated during April 2020⁠–March 2021.
 
 4/24/2021 [The Geography of Unemployment in 2020⁠–⁠2021](https://rpubs.com/elenas70/unemployment_by_state)
-<br />I examine the geographical distribution of the impact of COVID on unemployment rates in the U.S. in 2020⁠–⁠2021. The states most impacted and slowest to recover were states highly dependent on tourism and entertainment and states with high population density and large urban centers. Peak unemployment occured in April and May. Most states saw a gradual recovery until October and Noveber, and a stagnation or a rise in unemployment rates in December. 
+<br />I examine the geographical distribution of the impact of COVID on unemployment rates in the U.S. in 2020⁠–⁠2021. The states most impacted and slowest to recover were states highly dependent on tourism and entertainment and states with high population density and large urban centers. Peak unemployment occured in April and May. Most states saw a gradual recovery until October and Noveber, stagnation or a slight rise in December 2020–⁠February 2021, and a slight reduction in March 2021. 
  
 
 ### US. Labor Market During 1976-2021
