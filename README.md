@@ -25,7 +25,9 @@ In this blog I follow the recent developments in the U.S. labor market focusing 
 5/10/2016 [Decision-Making of Households. Family Labor Supply, Migration, and Marriage](https://rucore.libraries.rutgers.edu/rutgers-lib/51472/)
 <br />I examine family decision using theoretical and empirical analysis. I am interested in the different roles that the main decision makers in the family play in the common decision. The first chapter focuses on the family decision about the labor supply of the wife, the second, on family residential mobility and migration, and the second, on the determinants of marriage.
 
-### Contact
+### <span style="color:limegreen">Studies and Posts on the COVID Recession and the Labor Market in the U.S</span>
+
+### *Contact*
 
 Please <a href = "mailto: abc@example.com"> email me </a> or reach out on [Linkedin](https://www.linkedin.com/feed/) with comments, questions and research ideas!
 
