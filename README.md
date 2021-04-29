@@ -27,7 +27,9 @@ In this blog I follow the developments in the U.S. labor market focusing on the 
 
 ### <span style="color:limegreen">Other Authors on the Labor Market During COVID, Differential Impact on Men and Women and Other Relevant Topics</span>
 
+4/1/2021 [What the U.S. Census Household Pulse Survey reveals about the first year of the coronavirus recession, in six charts](https://equitablegrowth.org/what-the-u-s-census-household-pulse-survey-reveals-about-the-first-year-of-the-coronavirus-recession-in-six-charts/) from the Washington Center for Equitable Growth.
+
 03/22/2021 [Women, Work, and Family During COVID-19: Findings from the KFF Women's Health Survey](https://www.kff.org/report-section/women-work-and-family-during-covid-19-findings-from-the-kff-womens-health-survey-methodology/) from the Kaiser Family Foundation.
 
-4/1/2021 [What the U.S. Census Household Pulse Survey reveals about the first year of the coronavirus recession, in six charts](https://equitablegrowth.org/what-the-u-s-census-household-pulse-survey-reveals-about-the-first-year-of-the-coronavirus-recession-in-six-charts/) from the Washington Center for Equitable Growth.
+
 
