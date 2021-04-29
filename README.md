@@ -23,7 +23,7 @@ In this blog I follow the developments in the U.S. labor market focusing on the 
 ### PhD Research in Household and Labor Economics
 
 5/10/2016 [Decision-Making of Households. Family Labor Supply, Migration, and Marriage](https://rucore.libraries.rutgers.edu/rutgers-lib/51472/). E. Stolpovsky, M. Killingsworth, J. Landon-Lane, C. Moehling, M. Blackburn.
-<br />Theoretical and empirical examination of household decision making, focusing on the different roles that the main actors play in the common decision. 
+<br />Theoretical and empirical examination of household decision making, focusing on the different roles that the household members play in the common decision. 
 
 ### <span style="color:goldenrod">Relevant Studies</span>
 
