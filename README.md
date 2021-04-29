@@ -31,5 +31,7 @@ In this blog I follow the developments in the U.S. labor market focusing on the 
 
 03/22/2021 [Women, Work, and Family During COVID-19: Findings from the KFF Women's Health Survey](https://www.kff.org/report-section/women-work-and-family-during-covid-19-findings-from-the-kff-womens-health-survey-methodology/). Kaiser Family Foundation.
 
+09/29/2020 [Workforce Update: A Balancing Act For America's Working Women](https://www.forbes.com/sites/gradsoflife/2020/09/29/workforce-update-a-balancing-act-for-americas-working-women/?sh=2ecfe0ea6049). Forbes.
+
 
 
