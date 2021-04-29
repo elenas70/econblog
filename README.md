@@ -25,7 +25,7 @@ In this blog I follow the developments in the U.S. labor market focusing on the 
 5/10/2016 [Decision-Making of Households. Family Labor Supply, Migration, and Marriage](https://rucore.libraries.rutgers.edu/rutgers-lib/51472/)
 <br />I examine family decision using theoretical and empirical analysis. I am interested in the different roles that the main decision makers in the family play in the common decision. The first chapter focuses on the family decision about the labor supply of the wife, the second, on family residential mobility and migration, and the second, on the determinants of marriage.
 
-### <span style="color:darkgoldenrod">Other Authors on the Labor Market During COVID, Differential Impact on Men and Women and Other Relevant Topics</span>
+### <span style="color:goldenrod">Other Authors on the Labor Market During COVID, Differential Impact on Men and Women and Other Relevant Topics</span>
 
 4/1/2021 [What the U.S. Census Household Pulse Survey reveals about the first year of the coronavirus recession, in six charts](https://equitablegrowth.org/what-the-u-s-census-household-pulse-survey-reveals-about-the-first-year-of-the-coronavirus-recession-in-six-charts/) from the Washington Center for Equitable Growth.
 
