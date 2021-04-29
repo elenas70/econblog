@@ -1,9 +1,6 @@
 github:
   is_project_page: false
-title: <img src="avatar.PNG" style="width:50%" class="inline"/> <br> <a href="https://www.linkedin.com/in/estolpovsky/"><font size="5" color> Elena Stolpovsky </font> </a> <a href="https://www.linkedin.com/in/estolpovsky/" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a><br> <font size="4"> Researcher, PhD Economist  </font>
+title: <img src="avatar.PNG" style="width:50%" class="inline"/> <br> <a href="https://www.linkedin.com/in/estolpovsky/"><font size="5" color> Elena Stolpovsky </font> </a> <a href="https://www.linkedin.com/in/estolpovsky/" class="social-icon si-rounded si-small si-linkedin"> <i class="bi bi-linkedin"></i> </a><br> <font size="4"> Researcher, PhD Economist  </font>
 theme: jekyll-theme-minimal
 author: Elena Stolpovsky
 email: estolpovsky@gmail.com
